@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\backerbackend\\prisma",
+    "\\bakeryshopfrontend",
+    "\\bakeryshopfrontend\\app",
+    "\\bakeryshopfrontend\\app\\admin",
+    "\\bakeryshopfrontend\\app\\components\\menu",
+    "\\bakeryshopfrontend\\app\\products"
+  ],
+  "SelectedNode": "\\bakeryshopfrontend\\app\\products\\page.jsx",
+  "PreviewInSolutionExplorer": false
+}
